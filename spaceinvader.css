@@ -1,0 +1,44 @@
+.space-invader {
+    box-shadow: 0 0 0 1em lightslategrey,
+              0 1em 0 1em lightslategrey,
+              -2.5em 1.5em 0 .5em lightslategrey,
+              2.5em 1.5em 0 .5em lightslategrey,
+              -3em -3em 0 0 lightslategrey,
+              3em -3em 0 0 lightslategrey,
+              -2em -2em 0 0 lightslategrey,
+              2em -2em 0 0 lightslategrey,
+              -3em -1em 0 0 lightslategrey,
+              -2em -1em 0 0 lightslategrey,
+              2em -1em 0 0 lightslategrey,
+              3em -1em 0 0 lightslategrey,
+              -4em 0 0 0 lightslategrey,
+              -3em 0 0 0 lightslategrey,
+              3em 0 0 0 lightslategrey,
+              4em 0 0 0 lightslategrey,
+              -5em 1em 0 0 lightslategrey,
+              -4em 1em 0 0 lightslategrey,
+              4em 1em 0 0 lightslategrey,
+              5em 1em 0 0 lightslategrey,
+              -5em 2em 0 0 lightslategrey,
+              5em 2em 0 0 lightslategrey,
+              -5em 3em 0 0 lightslategrey,
+              -3em 3em 0 0 lightslategrey,
+              3em 3em 0 0 lightslategrey,
+              5em 3em 0 0 lightslategrey,
+              -2em 4em 0 0 lightslategrey,
+              -1em 4em 0 0 lightslategrey,
+              1em 4em 0 0 lightslategrey,
+              2em 4em 0 0 lightslategrey;
+    background: lightslategrey;
+    width: 1em;
+    height: 1em;
+    overflow: hidden;
+    text-shadow: 0 0 40px #fff;
+    color:  transparent;
+    mix-blend-mode: multiply;
+    text-shadow: 0 0 50px #058a8a;
+    position: absolute;
+      top: 65%; /* Position it at the top */
+      left: 50%; /* Center it horizontally */
+      transform: translateX(-50%); /* Center it horizontally */
+    }
